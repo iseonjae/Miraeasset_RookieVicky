@@ -1,4 +1,4 @@
-# Miraeasset_RookieVicky
+# 제 8회 미래에셋증권 X 네이버 클라우드 AI/Data 페스티벌
 
 
 
