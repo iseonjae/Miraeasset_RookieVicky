@@ -1,14 +1,6 @@
 # 제 8회 미래에셋증권 X 네이버 클라우드 AI/Data 페스티벌
 
-## PPT
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d3b4eacc-13cd-43e0-afca-db29cec61797">
-</p>
 
-## 파이프라인
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2c84c1f5-f010-4410-8014-8ef061a7527e">
-</p>
 
 
 ## 💰주제
@@ -30,3 +22,13 @@
 ## 📌세부내용
 - 
 - 
+
+## 📌PPT
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d3b4eacc-13cd-43e0-afca-db29cec61797">
+</p>
+
+## 📌파이프라인
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2c84c1f5-f010-4410-8014-8ef061a7527e">
+</p>
