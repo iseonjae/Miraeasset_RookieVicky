@@ -6,7 +6,9 @@
 </p>
 
 ## 파이프라인
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2c84c1f5-f010-4410-8014-8ef061a7527e">
+</p>
 
 
 ## 💰주제
