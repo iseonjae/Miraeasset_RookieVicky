@@ -1,5 +1,12 @@
 # Miraeasset_RookieVicky
 
+## PPT
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d3b4eacc-13cd-43e0-afca-db29cec61797">
+</p>
+
+## 파이프라인
+
 
 
 ## 💰주제
