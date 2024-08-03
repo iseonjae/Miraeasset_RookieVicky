@@ -1,4 +1,4 @@
-# Miraeasset_RookieVicky
+# 제 8회 미래에셋증권 X 네이버 클라우드 AI/Data 페스티벌
 
 ## PPT
 <p align="center">
@@ -19,7 +19,7 @@
 - Character Advancememt System을 기반으로한 고객 유치
 
 ## ✨팀원소개
-<p> 팀명 : 루키비키자나 </p>
+<p> 팀명 : 선재업고튀어 </p>
 
 |    소속    |   전공  |  이름  |
 | :--------: | :-----: | :----: |
